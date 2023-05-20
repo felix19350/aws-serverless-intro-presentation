@@ -1,0 +1,4 @@
+aws-lambda-powertools==2.15.0
+mako==1.2.4
+markupsafe==2.1.2
+typing-extensions==4.5.0
