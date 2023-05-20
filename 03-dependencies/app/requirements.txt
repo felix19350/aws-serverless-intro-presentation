@@ -1,0 +1,2 @@
+mako==1.2.4
+markupsafe==2.1.2
