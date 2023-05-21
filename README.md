@@ -40,7 +40,7 @@ sam local start-api
 python -m pytest tests/unit -v
 ```
 
-- Running integration tests: ``
+- Running integration tests:
 
 ```bash
 # You can find the stack name for each example in `samconfig.toml`
