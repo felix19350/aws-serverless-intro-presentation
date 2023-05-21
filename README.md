@@ -1,5 +1,3 @@
-# aws-serverless-intro-presentation
-
 # Going serverless - introduction to AWS Lambda
 
 This repo contains a series of introductory examples for AWS Lambda. The code examples
